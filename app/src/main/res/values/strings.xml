@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P77S2120222VBA</string>
+    <string name="escuela">Tecnologico de estudios superiores del oriente del estado de México</string>
+    <string name="alumno">Valerio Bautista Aldo</string>
+    <string name="grupo">7S21</string>
+    <string name="descrip">Descripcion</string>
+    <string name="menu">Envio</string>
+    <string name="nativo">Nativo</string>
+    <string name="objeto">Objeto</string>
+    <string name="regresa">Regresar</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+</resources>
